@@ -1,4 +1,5 @@
 name: gen_podcast_script
+# 播客风格脚本生成提示词
 
 description: 将任意主题或内容转化为一段高质量的中文播客对话脚本，风格深度、真诚、全球视野与中国洞察兼具，完全模拟Lex Fridman播客的主持风格。
 
